@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jinoku
-- 👀 I’m interested in 내가 어떻게 알아
+- 👀 I’m interested in ... JAVA C# JS etc..
 - 🌱 I’m currently learning java and SQL DB
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
